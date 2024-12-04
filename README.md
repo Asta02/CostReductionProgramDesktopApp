@@ -1,4 +1,4 @@
-<img width="331" alt="Choose a topic page" src="https://github.com/user-attachments/assets/06011dec-543d-4ade-b2d8-1fbeb36e8afa">Below is the photos of the Application
+Below is the photos of the Application
 
 Landing page
 <img width="303" alt="First page" src="https://github.com/user-attachments/assets/9c4d10ad-03fb-43c3-83aa-25c8032d7f89">
@@ -14,3 +14,6 @@ Video page
 
 Spinwheel page
 <img width="330" alt="Spinwheel page" src="https://github.com/user-attachments/assets/8ce351c4-d33f-4528-b007-cc9273ae9389">
+
+and of course Rick the one and only
+![WhatsApp Image 2024-12-04 at 13 53 53_70fbefaa](https://github.com/user-attachments/assets/8482bfe4-1370-46c3-893b-f5dc1910cd2a)

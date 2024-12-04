@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="CostReductionProgram.NamePage"
+             Title="NamePage">
+    <Grid>
+        <Image Source="C:\Users\athar\source\repos\windowsTvProject\windowsTvProject\Resources\Images\background_awal.jfif" Aspect="AspectFill" />
+        <VerticalStackLayout
+    Padding="100,0,100,0"
+    Spacing="10"
+    VerticalOptions="Start">
+
+            <StackLayout
+        VerticalOptions="Start"
+        HorizontalOptions="Center">
+                <Image Source="C:\Users\athar\source\repos\windowsTvProject\windowsTvProject\Resources\Images\gs_putih.png" HeightRequest="250" WidthRequest="250" />
+            </StackLayout>
+
+            <Label 
+        Text="Cost Reduction"
+        VerticalOptions="Start"
+        HorizontalOptions="Center"
+        FontSize="62"
+        FontFamily="Rubik"
+     
+        FontAttributes="Bold"
+        TranslationY="-84"
+        Margin="0,30,0,0"/>
+
+            <Label 
+        Text="Program (CRP)"
+        VerticalOptions="Start"
+        HorizontalOptions="Center"
+        FontSize="62"
+        FontFamily="Rubik"
+        FontAttributes="Bold"
+        TranslationY="-84"
+        Margin="0,0,0,0"/>
+
+            <Button 
+        Text="PRESS TO START"
+        CornerRadius="45"
+        FontSize="37"
+        FontAttributes="Bold"
+        FontFamily="Rubik"
+        HorizontalOptions="Fill"
+        HeightRequest="70"
+        WidthRequest="350"
+        TranslationY="-35"
+        Clicked="ToEnterNamePageBtn_Clicked"/>
+
+            <StackLayout
+        VerticalOptions="End"
+        HorizontalOptions="Center">
+                <Frame
+            Opacity="0.3"
+            CornerRadius="45"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand"
+            HeightRequest="774"
+            WidthRequest="458">
+                    <Frame
+                CornerRadius="45"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                HeightRequest="780"
+                WidthRequest="420"
+                Padding="0"
+                HasShadow="False"
+                TranslationX="-2"
+                TranslationY="-6">
+                    </Frame>
+                </Frame>
+            </StackLayout>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
